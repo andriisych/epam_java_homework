@@ -1,0 +1,4 @@
+git status
+git add название каталога
+git commit -m "Комментарий"
+git push -u origin master
